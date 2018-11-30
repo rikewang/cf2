@@ -14,7 +14,7 @@ hdfs中一般一个NameNode带多个DataNode，数据以三副本存储。
 
 
 
-![img](http://km.oa.com/files/photos/pictures/201811/1542889141_80_w874_h604.png)
+![img](./image/1542889141_80_w874_h604.png)
 
 
 
@@ -22,7 +22,7 @@ hdfs中一般一个NameNode带多个DataNode，数据以三副本存储。
 
 
 
-![img](http://km.oa.com/files/photos/pictures/201811/1542889186_21_w830_h461.png)
+![img](./image/1542889186_21_w830_h461.png)
 
 
 
@@ -37,7 +37,7 @@ hdfs中一般一个NameNode带多个DataNode，数据以三副本存储。
 
 
 
-![img](http://km.oa.com/files/photos/pictures/201811/1542889236_90_w913_h525.png)
+![img](./image/1542889236_90_w913_h525.png)
 
 
 
@@ -64,7 +64,7 @@ mon节点监控osd的状态，并存储有整个集群存储规则、整个集�
 
 
 
-![img](http://km.oa.com/files/photos/pictures/201811/1542889256_71_w693_h490.png)
+![img](./image/1542889256_71_w693_h490.png)
 
 
 
@@ -72,7 +72,7 @@ mon节点监控osd的状态，并存储有整个集群存储规则、整个集�
 
 
 
-![img](http://km.oa.com/files/photos/pictures/201811/1542889270_61_w1187_h589.png)
+![img](./image/1542889270_61_w1187_h589.png)
 
 
 
